@@ -1,0 +1,6 @@
+﻿  test.c
+E:\vs2019文件\c语言自学\c语言第二十天\test.c(15,9): warning C4013: “Add”未定义；假设外部返回 int
+E:\vs2019文件\c语言自学\c语言第二十天\test.c(17,16): warning C4013: “division”未定义；假设外部返回 int
+E:\vs2019文件\c语言自学\c语言第二十天\test.c(19,22): warning C4013: “multiplication”未定义；假设外部返回 int
+E:\vs2019文件\c语言自学\c语言第二十天\test.c(21,19): warning C4013: “subtraction”未定义；假设外部返回 int
+  c语言第二十天.vcxproj -> E:\vs2019文件\c语言自学\c语言第二十天\Debug\c语言第二十天.exe
